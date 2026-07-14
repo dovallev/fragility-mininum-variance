@@ -1,0 +1,20 @@
+# PLACEHOLDER — update once the paper has a venue/DOI/arXiv id.
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Fragility of Minimum-Variance Portfolios"
+authors:
+  - family-names: Ovalle
+    given-names: Daniel
+    affiliation: "Carnegie Mellon University, Department of Chemical Engineering"
+  - family-names: Laird
+    given-names: "Carl D."
+    affiliation: "Carnegie Mellon University, Department of Chemical Engineering"
+  - family-names: Grossmann
+    given-names: "Ignacio E."
+    affiliation: "Carnegie Mellon University, Department of Chemical Engineering"
+  - family-names: Peña
+    given-names: Javier
+    affiliation: "Carnegie Mellon University, Tepper School of Business"
+date-released: "2026-07-14"
+repository-code: "https://github.com/PLACEHOLDER/fragility-minimum-variance"
+license: MIT
